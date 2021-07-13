@@ -4,6 +4,7 @@
 
 uint64_t descendingOrder(uint64_t n)
 {
+	// fonction
 
     uint64_t temp;
     uint64_t result;
