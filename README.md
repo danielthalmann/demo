@@ -1,4 +1,4 @@
-# Ce que peut traité un processeur 8 bits
+# Ce que peut traiter un processeur 8 bits
 
 
 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
